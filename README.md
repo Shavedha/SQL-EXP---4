@@ -1,4 +1,4 @@
-# SQL-EXP---4
+# SQL - EXPERIMENT 4 - To create an SQL query to show record from one table that another table does not have.
 ## AIM
 To create an SQL query to show record from one table that another table does not have.
 ## ALGORITHM
